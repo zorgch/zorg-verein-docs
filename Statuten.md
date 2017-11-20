@@ -135,7 +135,7 @@ Die Vorstandsmitglieder sind teil der "Administrator"-Gruppe auf dem Git-Reposit
 
 ## Die Revisionsstelle
 
-Die GV wählt jährlich einen Revisor, welcher die Buchführung kontrolliert und mindestens einmal jährlich eine Stichkontrolle durchführt. Der Revisor darf nicht gleichzeitig ein Vorstandsmitglied sein.
+Auf die Wahl einer Revisionsstelle wird verzichtet. 
 
 ## Das \[z\]-Gremium
 
