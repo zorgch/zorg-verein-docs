@@ -18,7 +18,6 @@ Zorg Verein Statuten
   - [Befugnisse](#markdown-header-befugnisse)
   - [Beschlussfähigkeit](#markdown-header-beschlussfahigkeit)
 - [Der Vorstand](#markdown-header-der-vorstand)
-- [Die Revisionsstelle](#markdown-header-die-revisionsstelle)
 - [Das \[z\]-Gremium](#markdown-header-das-z-gremium)
 - [Die Kenner](#markdown-header-die-kenner)
 - [Der Serveradministrator](#markdown-header-der-serveradministrator)
@@ -45,7 +44,7 @@ Der Verein hat seinen Sitz in St. Gallen, Schweiz.
 
   - Betrieb und Finanzierung des vereinseigenen Servers
 
-  - Betrieb der Vereinswebseiten und dem IRC-Server
+  - Betrieb der Vereinswebsite `zorg.ch` und dem IRC-Server
 
   - Gemeinsamer Besuch von Anlässen
 
@@ -90,15 +89,13 @@ Ein Mitglied kann jederzeit mit Grundangabe aus dem Verein ausgeschlossen werden
 
 2) der Vorstand (Zorg Vorstand)
 
-3) die Revisionsstelle (Revisor)
+3) das \[z\]-Gremium
 
-4) das \[z\]-Gremium
+4) die Kenner
 
-5) die Kenner
+5) der Serveradministrator (Admin)
 
-6) der Serveradministrator (Admin)
-
-7) der Event Manager
+6) der Event Manager
 
 ## Die Generalversammlung (GV)
 
@@ -106,7 +103,7 @@ Das oberste Organ des Vereins ist die Generalversammlung. Eine ordentliche Gener
 
 Zur Generalversammlung werden die Mitglieder vier Wochen im Voraus schriftlich eingeladen. Dem Schreiben liegt als Beilage die vom Präsidenten erarbeitete Traktandenliste bei. Diese ist durch die Mitglieder zu prüfen und allfällige Ergänzungen sind innerhalb von zwei Wochen an den Präsidenten zu richten. Eine Woche vor der GV wird der finale Versand an die Mitglieder gemacht.
 
-Die GV wählt jährlich den Vorstand, den Serveradministrator sowie die Revisionsstelle. Der GV obliegt die Abnahme des Jahresberichtes und der Jahresrechnung. Die GV behandelt zudem allfällige Ausschlussrekurse.
+Die GV wählt jährlich den Vorstand, den Serveradministrator und den Event Manager. Der GV obliegt die Abnahme des Jahresberichtes und der Jahresrechnung. Die GV behandelt zudem allfällige Ausschlussrekurse.
 
 Der Aktuar ist dafür zuständig, dass ein ordentliches und vollständiges Protokoll der jeweiligen GV zusammengetragen wird. Er kann dazu einen oder mehrere Protokollschreiber benennen. Der Aktuar kümmert sich darum, dass die Protokolle für die Mitglieder zugänglich veröffentlicht werden und setzt diese über die Veröffentlichung in Kenntnis.
 
@@ -116,7 +113,7 @@ Der Aktuar ist dafür zuständig, dass ein ordentliches und vollständiges Proto
 2. Genehmigung des Protokolls der letzten Generalversammlung
 3. Genehmigung des Jahresberichtes
 4. Abnahme der Jahresrechnung und des Budgets für das folgende Geschäftsjahr
-5. Wahl und Abberufung des Vorstandes, der Revisionsstelle, des Serveradministrators und des Event Managers
+5. Wahl und Abberufung des Vorstandes, des Serveradministrators, des Event Managers und einer Revisionsstelle
 6. Auflösung des Vereins
 
 ### Beschlussfähigkeit
@@ -131,11 +128,7 @@ An der GV besitzt jedes Aktivmitglied eine Stimme; die Beschlussfassung erfolgt 
 
 Der Vorstand besteht aus dem Präsidenten, dem Aktuar und dem Kassier. Der Vorstand vertritt den Verein nach Aussen und führt die laufenden Geschäfte. Er trägt die Verantwortung für den datenschutzkonformen Umgang mit den dem Vorstand anvertrauten Personendaten der Mitglieder, und nutzt diese alleinig und ausschliesslich zur Erfüllung seiner Aufgaben.
 
-Die Vorstandsmitglieder sind teil der "Administrator"-Gruppe auf dem Git-Repository des Vereins. Die damit einhergehende Möglichkeit des Erteilen oder Entziehen von Zugängen auf den Quelltext der Vereinswebseite sind jeweils von dem Serveradministrator bestätigen zu lassen. Alle Vorstandsmitglieder sind in der Rolle "Reviewer" im Git-Repository für die Vereins-Dokumentationen hinterlegt, um allfällige Beiträge oder Änderungswünsche (Pull-Requests) überprüfen, freigeben oder ablehnen zu können.
-
-## Die Revisionsstelle
-
-Auf die Wahl einer Revisionsstelle wird verzichtet. 
+Die Vorstandsmitglieder sind teil der "Administrator"-Gruppe auf dem Git-Repository des Vereins. Die damit einhergehende Möglichkeit des Erteilen oder Entziehen von Zugängen auf den Quelltext der Vereinswebsite sind jeweils von dem Serveradministrator bestätigen zu lassen. Alle Vorstandsmitglieder sind in der Rolle "Reviewer" im Git-Repository für die Vereins-Dokumentationen hinterlegt, um allfällige Beiträge oder Änderungswünsche (Pull-Requests) überprüfen, freigeben oder ablehnen zu können.
 
 ## Das \[z\]-Gremium
 
@@ -143,19 +136,19 @@ Die Mitglieder des \[z\]-Gremiums dürfen sich im Internet oder auf ihrer Kleidu
 
 ## Die Kenner
 
-Die Kenner bestehen aus Mitgliedern des Vereins, welche zusätzliche Rechte und Privilegien auf dem vereinseigenen Server, der Vereinswebseite, sowie dem Git-Repository des Vereins besitzen. Gegen die Mitgliedschaft einer Person in die Gruppe der Kenner hat der Serveradministrator ein zu begründendes Vetorecht. Die Aufnahme und den Ausschluss aus der Gruppe der Kenner regelt der Vorstand zusammen mit dem Serveradministrator.
+Die Kenner bestehen aus Mitgliedern des Vereins, welche zusätzliche Rechte und Privilegien auf dem vereinseigenen Server, der Vereinswebsite, sowie dem Git-Repository des Vereins besitzen. Gegen die Mitgliedschaft einer Person in die Gruppe der Kenner hat der Serveradministrator ein zu begründendes Vetorecht. Die Aufnahme und den Ausschluss aus der Gruppe der Kenner regelt der Vorstand zusammen mit dem Serveradministrator.
 
-Die Kenner erhalten mindestens "Developer"-Berechtigungen auf das Git-Repository des Vereins und somit vollen Zugang auf den Quelltext der Vereinswebseite, um für selbige Anpassungen und Erweiterungen beisteuern zu können. Es liegt im Ermessen des Serveradministrators, für Benutzeraccounts von Kennern auf dem vereinseigenen Server, das Recht `su` auszuführen zu erteilen.
+Die Kenner erhalten mindestens "Developer"-Berechtigungen auf das Git-Repository des Vereins und somit vollen Zugang auf den Quelltext der Vereinswebsite, um für selbige Anpassungen und Erweiterungen beisteuern zu können. Es liegt im Ermessen des Serveradministrators, für Benutzeraccounts von Kennern auf dem vereinseigenen Server, das Recht `su` auszuführen zu erteilen.
 
 ## Der Serveradministrator
 
 Der Serveradministrator kümmert sich um die technischen Belange des ordentlichen Serverbetriebes. Bei Auftreten einer Unregelmässigkeit zum normalen Betrieb, informiert der Serveradministrator umgehend den Vorstand. Der Serveradministrator besitzt als alleiniges Mitglied die vollen Rechte `root` auf dem Server.
 
-Der Serveradministrator ist Mitglied der "Administrator"-Gruppe auf das Git-Repository des Vereins und kontrolliert somit das Erteilen oder Entziehen von Zugang auf den Quelltext der Vereinswebseite.
+Der Serveradministrator ist Mitglied der "Administrator"-Gruppe auf das Git-Repository des Vereins und kontrolliert somit das Erteilen oder Entziehen von Zugang auf den Quelltext der Vereinswebsite.
 
 ## Der Event Manager
 
-Der Event Manager wird jährlich durch die GV gewählt. Sein Ziel ist es, neue Mitglieder anzuwerben. Dies geschieht durch das Bekanntmachen des Vereins, seines Zwecks, seiner Website, seiner Anlässe und seiner Mitglieder bei möglichen Neuzugängern. Für die Ausübung seines Amtes stehen dem Event Manager jährlich CHF 100.– zur Verfügung. Der Event Manager muss jeweils an der GV Rechenschaft über die Ereignisse und Ausgaben ablegen.
+Die Aufgabe des Event Managers ist es, neue Mitglieder anzuwerben. Dies geschieht durch das Bekanntmachen des Vereins, seines Zwecks, seiner Webseite, seiner Anlässe und seiner Mitglieder bei möglichen Neuzugängern. Für die Ausübung seines Amtes stehen dem Event Manager jährlich CHF 100.– zur Verfügung. Der Event Manager muss jeweils an der GV Rechenschaft über die Ereignisse und Ausgaben ablegen.
 
 ## Notfallrecht
 
@@ -177,9 +170,13 @@ Im Rahmen der laufenden Geschäfte können solche durch Einzelunterschrift eines
 
 Die ordentliche Verwaltung, regelmässige Überprüfung und Freigabe von Mitteln aus dem Vereinskonto obliegt dem Kassier. Der Kassier ist bei der Konto-verwaltenden Gesellschaft als Verwalter und primäre Ansprechperson des Vereinskontos eingetragen, zusätzlich sind alle weiteren Vorstandsmitglieder als unterschriftsberechtigte Personen hinterlegt. Bei einem Wechsel eines Vorstandsmitgliedes - insbesondere dem Kassier - erfolgt die Änderungsmeldung, und gegebenenfalls Umschreibung des Konto-Verwalters, innerhalb eines Monats durch den bis zum Ende des betroffenen Geschäftsjahres amtierenden Kassier.
 
+### Revisionsstelle
+
+Auf eine Revisionsstelle wird grundsätzlich verzichtet. Die Wahl und Beauftragung einer solchen kann jedoch durch die GV beantragt werden.
+
 ## Dienstleistungen an Dritte
 
-Der Vorstand ist berechtigt, Drittpersonen Dienstleistungen im Rahmen der Vereinszwecke anzubieten. Die Konditionen definiert der Vorstand. Es ist zwingend sicherzustellen, dass der Zweck des Betriebes der Website `zorg.ch`, sowie deren Dienstleistungsangebot, dabei in keinster Weise beeinträchtigt wird, sowie keine Personendaten der Vereinsmitglieder Dritten zugänglich oder einsehbar gemacht werden.
+Der Vorstand ist berechtigt, Drittpersonen Dienstleistungen im Rahmen der Vereinszwecke anzubieten. Die Konditionen definiert der Vorstand. Es ist zwingend sicherzustellen, dass der Zweck des Betriebes der Vereinswebsite, sowie deren Dienstleistungsangebot, dabei in keinster Weise beeinträchtigt wird, sowie keine Personendaten der Vereinsmitglieder Dritten zugänglich oder einsehbar gemacht werden.
 
 ## Datenschutz
 
@@ -187,7 +184,7 @@ Der Vorstand hält sich strikt an die allgemeinen Grundsätze aus dem Datenschut
 
 Der Vorstand kann an aktive Mitglieder einen Auszug der aktuellen Mitgliederliste zustellen, achtet aber darauf, nur die folgenden Informationen zu inkludieren: Pseudonym, Aufgabe, Mitgliedsstatus, Ein- oder Austrittsdatum.
 
-Auf der Vereinswebseite werden weder Vereinsmitglieder, noch deren Mitgliedsdaten oder -status, publiziert.
+Auf der Vereinswebsite werden weder Vereinsmitglieder, noch deren Mitgliedsdaten oder -status, publiziert.
 
 Der Wunsch über Auskunft darüber, ob und welche Daten einer Person dem Verein bekannt sind oder von diesem bearbeitet werden, sind schriftlich an ein Vorstandsmitglied zu richten.
 
