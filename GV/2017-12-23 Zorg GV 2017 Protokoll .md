@@ -28,22 +28,22 @@ Restaurant Café Gschwend, St. Gallen, 23.12.2017
 
 # Allgemeines
 ## Anwesende Mitglieder: 10
-  - \[z\]bert, \[z\]Cédi, \[z\]domi, \[z\]hans, mauten, \[z\]giusto, \[z\]keep3r, IneX, Squeezer,
-Kassiopaia
+  - Robert Natau, Cédric Baier, Dominik Angehrn, Hans Maurer, Matthias Schawalder, Pascal Ruckstuhl, Nico Raschle, Oliver Raduner, Matthias Schranz,
+Florian Bentele
   - Absolutes Mehr: 6
 
 ## Entschuldigte Mitglieder: 3
-  - \[z\]Duke, luusmeitli, DEX
+  - Daniel Zeller, Anna-Lena Horber, Orlando De Toffol
 
 ## Unentschuldigte Mitglieder: 5
-  - \[z\]tschuder, Mike, häne, Maweg, Enigma
+  - Raphael Studer, Michael Hirt, Patrick Häne, Markus Wegmann, Nicholas Wright
 
 
 # Traktanden
 ## 1. Eröffnung und Wahl des Stimmenzählers
-Der Vorschlag des Präsidenten, als Stimmenzähler \[z\]domi zu wählen, wurde einstimmig angenommen.
+Der Vorschlag des Präsidenten, als Stimmenzähler Dominik Angehrn zu wählen, wurde einstimmig angenommen.
 
-\[z\]domi übernimmt dankenswerterweise auch die Protokollierung der GV.
+Dominik Angehrn übernimmt dankenswerterweise auch die Protokollierung der GV.
 
 ## 2. Genehmigung des Protokolls der letzten GV
 Das Protokoll der letzten Generalversammlung wurde einstimmig angenommen.
@@ -53,7 +53,7 @@ Das Protokoll der letzten Generalversammlung wurde einstimmig angenommen.
   - Neueintritte 2017: keine
   - Austritte 2017: keine
   - Anzahl aktive Mitglieder: 18
-  - Ehrenmitglieder: 1 (lukas)
+  - Ehrenmitglieder: 1 (Lukas Beeler, † 15. September 2010)
   - Offene Positionen im Verein: Präsident, Serveradministrator
 
 ### Administratives
@@ -128,27 +128,27 @@ Siehe Traktandum [4. Bericht des Kassiers](#markdown-header-4-bericht-des-kassie
 
 ## 10. Wahl des Vorstandes
 ### Präsident
-  - IneX stellt sich zur Wahl für das Amt des Präsidenten
-  - IneX wurde einstimmig in das Amt des Präsidenten gewählt
+  - Oliver Raduner stellt sich zur Wahl für das Amt des Präsidenten
+  - Oliver Raduner wurde einstimmig in das Amt des Präsidenten gewählt
 
 ### Kassier
-  - \[z\]keep3r wurde einstimmig in seinem Amt als Kassier bestätigt
+  - Nico Raschle wurde einstimmig in seinem Amt als Kassier bestätigt
 
 ### Aktuar
-  - \[z\]domi stellt sich zur Wahl für das Amt des Aktuars
-  - \[z\]domi wurde einstimmig in das Amt des Aktuars gewählt
+  - Dominik Angehrn stellt sich zur Wahl für das Amt des Aktuars
+  - Dominik Angehrn wurde einstimmig in das Amt des Aktuars gewählt
 
 
 ## 11. Wahl des Event Managers
-  - Es stellen sich zwei Kandidaten zur Wahl für das Amt des Event Managers, mauten (bisher) und \[z\]hans
-  - mauten erhält 2 Ja Stimmen, \[z\]hans erhält 7 Ja Stimmen, bei 1 Enthaltung
-  - \[z\]hans wurde mit 7 Ja Stimmen als Event Manager gewählt
+  - Es stellen sich zwei Kandidaten zur Wahl für das Amt des Event Managers, Matthias Schawalder (bisher) und Hans Maurer
+  - Matthias Schawalder erhält 2 Ja Stimmen, Hans Maurer erhält 7 Ja Stimmen, bei 1 Enthaltung
+  - Hans Maurer wurde mit 7 Ja Stimmen als Event Manager gewählt
 
 
 ## 12. Wahl des Serveradministrators
-  - Es stellen sich zwei Kandidaten zur Wahl für das Amt des Serveradministrators, Kassiopaia und \[z\]bert
-  - Kassiopaia erhält 3 Ja Stimmen, \[z\]bert erhält 7 Ja Stimmen, es gibt keine Enthaltungen
-  - \[z\]bert wurde mit 7 Ja Stimmen als Serveradministrator gewählt
+  - Es stellen sich zwei Kandidaten zur Wahl für das Amt des Serveradministrators, Florian Bentele und Robert Natau
+  - Florian Bentele erhält 3 Ja Stimmen, Robert Natau erhält 7 Ja Stimmen, es gibt keine Enthaltungen
+  - Robert Natau wurde mit 7 Ja Stimmen als Serveradministrator gewählt
 
 ## 13. Zorg Jahresrückblick 2017
 Der Jahresrückblick wurde über den [Twitter-Account](https://twitter.com/zorgch/) des Vereins übertragen und steht dort öffentlich zum erneuten Abruf bereit.
