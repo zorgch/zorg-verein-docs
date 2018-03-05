@@ -1,6 +1,12 @@
 Change Log Verein Statuten
 ======
 
+## `Version 4 - und neuer... (ab 2017)`
+
+  - Siehe Diff im Git-Repository
+
+---
+
 ## `Version 3 (2009)`
 
 ##### Generell:
@@ -115,4 +121,24 @@ Change Log Verein Statuten
 
 ## `Version 1 (2005)`
 
-  - Initialversion (Gründungsstatuten)
+  - Gründungsstatuten
+
+
+---
+
+## `Version 0.7 (18. Dec 2005)`
+
+  - Abs. 14. Wir brauchen ne scheiss NPO
+  - Abs. 15. Gehts so ? Siehe 3.
+  - Abs. 12. Revisor: eigentlich scheissegal. kein vorstand. einer oder 2 ?
+  - Abs. 11. Namen bitte. aber schnell !
+  - Abs. 10. Habs mal abgeschwächt. Besser ?
+  - Abs. 3. hab mal den 15. angepasst.
+  - der Rest waren eigentlich IMHO nur Formanpassungen. so. discuss. :-)
+ 
+
+---
+
+## `Version 0.1 (10. Dec 2005)`
+
+  - Initialversion
