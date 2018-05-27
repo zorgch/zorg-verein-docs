@@ -98,19 +98,19 @@ des Revisorenberichtes.
 Die GV behandlet Ausschlussrekurse. An der GV besitzt jedes Mitglied
 eine Stimme; die Beschlussfassung erfolgt mit einfachem Mehr.
 
-# Der Vorstand
+## Der Vorstand
 
 Der Vorstand besteht aus dem Präsidenten, dem Aktuar und dem Kassier.
 Der Vorstand vertritt den Verein nach aussen und führt die laufenden
 Geschäfte.
 
-# Der Serveradministrator
+## Der Serveradministrator
 
 Der Serveradministrator kümmert sich um die technischen Belange des
 Serverbetriebes. Der Serveradministrator besitzt als alleiniges Mitglied
 die vollen Rechte ("root") auf dem Server.
 
-# Das \[z\]-Gremium
+## Das \[z\]-Gremium
 
 Die Mitglieder des \[z\]-Gremium dürfen sich im Internet oder auf ihrer
 Kleidung mit einem \[z\] schmücken, sowie werden bei ihrer Aufnahme in
@@ -120,7 +120,7 @@ Vereinsmitglieder, welche traditionellerweise dieses Recht bereits
 ausübten. Über Aufnahme und Ausschluss von Vereinsmitgliedern in das
 \[z\]-Gremium entscheidet die Mehrheit des gesamten \[z\]-Gremium.
 
-# Die Kenner
+## Die Kenner
 
 Die Kenner bestehen aus Mitgliedern des Vereins welche zusätzliche
 Rechte und Privilegien auf dem Server und der WebSite besitzen. Gegen
@@ -130,14 +130,14 @@ definiert die zusätzlichen Rechte und Privilegien, der
 Serveradministrator und GV haben ein Vetorecht. Die Aufnahme und den
 Ausschluss aus der Gruppe der Kenner regelt der Vorstand.
 
-# Die Revisor
+## Der Revisor
 
 Die GV wählt jährlich einen Revisor, welcher die Buchführung
 kontrolliert und mindestens einmal jährlich eine Stichkontrolle
 durchführt. Der Revisor darf nicht gleichzeitig Mitglied des Vorstandes
 sein.
 
-# Der Headhunter
+## Der Headhunter
 
 Die GV wählt jährlich einen Headhunter, dessen Ziel es ist, neue
 Mitglieder anzuwerben. Dies geschieht unter anderem durch das mündliche
