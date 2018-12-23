@@ -191,6 +191,6 @@ Der Wunsch über Auskunft darüber, ob und welche Daten einer Person dem Verein 
 
 ## Inkrafttreten, Gültigkeit und Version
 
-Die vorliegende `Version 4.0.0` wurde aufgrund gemachter Erfahrungen und Plausibilität modifiziert. Alle Anpassungen zur Vorversion sind via Diff auf die Commits im Git-Repository des Vereins dokumentiert: [https://bitbucket.org/zorgvorstand/zorg-verein-docs](https://bitbucket.org/zorgvorstand/zorg-verein-docs)
+Die vorliegende `Version 4.0.0` wurde aufgrund gemachter Erfahrungen und Plausibilität modifiziert. Alle Anpassungen zur Vorversion sind via Diff auf die Commits im Git-Repository des Vereins dokumentiert: [https://github.com/zorgch/zorg-verein-docs](https://github.com/zorgch/zorg-verein-docs)
 
 Diese Version der Statuten wurde vom Vorstand abgesegnet und durch die GV am 23.12.2017 angenommen.
