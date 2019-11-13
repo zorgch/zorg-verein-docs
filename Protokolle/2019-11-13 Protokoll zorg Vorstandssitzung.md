@@ -1,6 +1,9 @@
 Protokoll zorg Vorstandssitzung
+
 Teilnehmer: Oliver Raduner, Nico Raschle, Dominik Angehrn
+
 Wo: Hangouts / Google meet
+
 Wann: 13.11.2019, 20:55 - ...
 
 
