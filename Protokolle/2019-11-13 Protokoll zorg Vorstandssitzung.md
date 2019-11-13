@@ -4,7 +4,7 @@ Teilnehmer: Oliver Raduner, Nico Raschle, Dominik Angehrn
 
 Wo: Hangouts / Google meet
 
-Wann: 13.11.2019, 20:55 - ...
+Wann: 13.11.2019, 20:55 - 22:10
 
 
 Status Kassier:
