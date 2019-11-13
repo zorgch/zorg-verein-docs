@@ -1,7 +1,7 @@
-Zorg Verein Statuten
+zorg Verein Statuten
 ======
 ---
-`Version 4.0.0, 23.12.2017`
+`Version 5.0.0, 23.12.2019`
 
 ##### Inhaltsverzeichnis
 
@@ -34,7 +34,7 @@ Zorg Verein Statuten
 
 ## Name
 
-Unter dem Namen ”Zorg Verein” besteht ein Verein im Sinne von Art. 60 ff. des Schweizerischen Zivilgesetzbuches.
+Unter dem Namen ”zorg Verein” besteht ein Verein im Sinne von Art. 60 ff. des Schweizerischen Zivilgesetzbuches.
 
 ## Sitz
 
@@ -59,7 +59,7 @@ Der Verein ist politisch und konfessionell neutral.
 
 ## Mittel
 
-Zur Verfolgung der Vereinszwecke verfügt der Verein über die Beiträge der Mitglieder sowie über Einkünfte aus Vereinsaktivitäten. Über die Verwendung von Überschüssen, welche nicht für den Betrieb des vereinseigenen Servers und entsprechender Rücklagen benötigt werden, verfügt, im Sinne der Vereinszwecke, die GV. Vereinsaktivitäten müssen kostendeckend sein. Der Verein kann nebst den erwähnten Einkünfte auch Zuwendungen aller Art entgegennehmen, insbesondere auch Mehrbeiträge von Mitgliedern, welche als Spenden betrachtet werden.
+Zur Verfolgung der Vereinszwecke verfügt der Verein über die Beiträge der Mitglieder sowie über Einkünfte aus Vereinsaktivitäten. Über die Verwendung von Überschüssen, welche nicht für den Betrieb des vereinseigenen Servers und entsprechender Rücklagen benötigt werden, verfügt, im Sinne der Vereinszwecke, die GV. Vereinsaktivitäten müssen kostendeckend sein. Der Verein kann nebst den erwähnten Einkünften auch Zuwendungen aller Art entgegennehmen, insbesondere auch Mehrbeiträge von Mitgliedern, welche als Spenden betrachtet werden.
 
 Als Übersicht der geplanten und effektiven Einnahmen und Ausgaben während des Geschäftsjahres, wird durch den Kassier ein Budget und eine Rechnung geführt. Dieses muss jeweils der GV vorgelegt werden.
 
@@ -67,7 +67,7 @@ Das Geschäftsjahr des Vereins beginnt jeweils am 01. Januar und endet am 31. De
 
 ## Mitglieder
 
-Jede natürliche und juristische Person kann Vereinsmitglied werden, Aufnahmegesuche sind an ein Vorstandsmitglied zu richten. Über die Aufnahme entscheidet der Vorstand, die GV hat ein Vetorecht. Der Aktuar pflegt eine Mitgliederliste über die aktuellen Mitgliederbestände, deren Eintrittsdatum sowie aktuelle Kontaktmöglichkeiten (Vor- und Nachname, Adresse, E-Mailadresse, Skype-Benutzername, Telefonnummer). Diese Liste ist nicht öffentlich einsehbar und dient lediglich dem Vorstand zur Kontaktmöglichkeit von Mitgliedern.
+Jede natürliche und juristische Person kann Vereinsmitglied werden, Aufnahmegesuche sind an ein Vorstandsmitglied zu richten. Über die Aufnahme entscheidet der Vorstand, die GV hat ein Vetorecht. Der Aktuar pflegt eine Mitgliederliste über die aktuellen Mitgliederbestände, deren Eintrittsdatum sowie aktuelle Kontaktmöglichkeiten (Vor- und Nachname, E-Mailadresse). Diese Liste ist nicht öffentlich einsehbar und dient lediglich dem Vorstand zur Kontaktmöglichkeit von Mitgliedern.
 
 Mitglieder haben Anspruch auf einen Benutzeraccount auf dem vereinseigenen Server, welcher mit einem eigenen Userhome einhergeht, welches jedem Mitglied für die eigenen Zwecke und Interessen zur freien Verfügung steht. Der Zugriff auf das eigene Userhome auf dem Server erfolgt grundsätzlich mittels SSH.
 
@@ -87,7 +87,7 @@ Ein Mitglied kann jederzeit mit Grundangabe aus dem Verein ausgeschlossen werden
 
 1) die Generalversammlung (GV, Vereinsversammlung)
 
-2) der Vorstand (Zorg Vorstand)
+2) der Vorstand (zorg Vorstand)
 
 3) das \[z\]-Gremium
 
@@ -128,7 +128,7 @@ An der GV besitzt jedes Aktivmitglied eine Stimme; die Beschlussfassung erfolgt 
 
 Der Vorstand besteht aus dem Präsidenten, dem Aktuar und dem Kassier. Der Vorstand vertritt den Verein nach Aussen und führt die laufenden Geschäfte. Er trägt die Verantwortung für den datenschutzkonformen Umgang mit den dem Vorstand anvertrauten Personendaten der Mitglieder, und nutzt diese alleinig und ausschliesslich zur Erfüllung seiner Aufgaben.
 
-Die Vorstandsmitglieder sind teil der "Administrator"-Gruppe auf dem Git-Repository des Vereins. Die damit einhergehende Möglichkeit des Erteilen oder Entziehen von Zugängen auf den Quelltext der Vereinswebsite sind jeweils von dem Serveradministrator bestätigen zu lassen. Alle Vorstandsmitglieder sind in der Rolle "Reviewer" im Git-Repository für die Vereins-Dokumentationen hinterlegt, um allfällige Beiträge oder Änderungswünsche (Pull-Requests) überprüfen, freigeben oder ablehnen zu können.
+Die Vorstandsmitglieder sind Teil der "Administrator"-Gruppe auf dem Git-Repository des Vereins. Die damit einhergehende Möglichkeit des Erteilen oder Entziehen von Zugängen auf den Quelltext der Vereinswebsite sind jeweils von dem Serveradministrator bestätigen zu lassen. Alle Vorstandsmitglieder sind in der Rolle "Reviewer" im Git-Repository für die Vereins-Dokumentationen hinterlegt, um allfällige Beiträge oder Änderungswünsche (Pull-Requests) überprüfen, freigeben oder ablehnen zu können.
 
 ## Das \[z\]-Gremium
 
@@ -160,7 +160,7 @@ Die Auflösung des Vereins kann mit einfacher Mehrheit durch die GV beschlossen 
 
 ## Haftung
 
-Für die Schulden des Vereins haftet dieser nur mit dem Vereinsvermögen. Eine persönliche Haftung der Mitglieder ist ausgeschlossen. Ausgenommen sind Mitglieder, welche Vereinsaktivitäten im Namen des Vereins organisieren, welche aber nicht dem Primärzwecken entsprechen. Diese haften selbst für eventuell entstandene Mehrkosten.
+Für die Schulden des Vereins haftet dieser nur mit dem Vereinsvermögen. Eine persönliche Haftung der Mitglieder ist ausgeschlossen. Ausgenommen sind Mitglieder, welche Vereinsaktivitäten im Namen des Vereins organisieren, welche aber nicht den Primärzwecken entsprechen. Diese haften selbst für eventuell entstandene Mehrkosten.
 
 ## Unterschrift
 
@@ -191,6 +191,6 @@ Der Wunsch über Auskunft darüber, ob und welche Daten einer Person dem Verein 
 
 ## Inkrafttreten, Gültigkeit und Version
 
-Die vorliegende `Version 4.0.0` wurde aufgrund gemachter Erfahrungen und Plausibilität modifiziert. Alle Anpassungen zur Vorversion sind via Diff auf die Commits im Git-Repository des Vereins dokumentiert: [https://github.com/zorgch/zorg-verein-docs](https://github.com/zorgch/zorg-verein-docs)
+Die vorliegende `Version 5.0.0` wurde aufgrund der letzten GV vom 23.12.2018 und Vorstandssitzung vom 13.11.2019 gemacht.. Alle Anpassungen zur Vorversion sind via Diff auf die Commits im Git-Repository des Vereins dokumentiert: [https://github.com/zorgch/zorg-verein-docs](https://github.com/zorgch/zorg-verein-docs)
 
-Diese Version der Statuten wurde vom Vorstand abgesegnet und durch die GV am 23.12.2017 angenommen.
+Diese Version der Statuten wurde vom Vorstand abgesegnet und wird an der GV am 23.12.2019 zur Annahme vorgelegt.
