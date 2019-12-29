@@ -51,7 +51,7 @@ Restaurant Dreilinden, St. Gallen, 23.12.2019
 - Im Telegram Chat "zorg Community" darf ungeniert auch "random gschmäus" geschrieben werden.
 - Matthias Frei will einen Anmeldebogen für einen Vereinsbeitritt.
 - Antrag 3 "_Ausschluss des Schuldners «\[z\]tschuder»?_" wurde gestrichen.
-- Frage Cédi bzgl. Bildergallerie und einem damit einhergehenden technischen Problem: Die Bildergallerie kann nur noch von eingeloggten Usern angesehen werden. Auf dem öffentlich zugänglichen Telegram-Chat wird jedoch das Daily-Pic gepostet. Dies soll / kann so bleiben. Siehe https://zorg.ch/bug/769?parent_id=769#114686
+- Frage Cédi bzgl. Bildergallerie und einem damit einhergehenden technischen Problem: Die Bildergallerie kann nur noch von eingeloggten Mitgliedern angesehen werden. Auf dem öffentlich zugänglichen Telegram-Chat wird jedoch das Daily-Pic gepostet. Dies soll / kann so bleiben. Siehe Diskussion auf zorg: https://zorg.ch/bug/769#114686
 
 # Jahresrückblick 2019
 
