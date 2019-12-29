@@ -39,16 +39,18 @@ Restaurant Dreilinden, St. Gallen, 23.12.2019
 - 14 Ja, 0 Nein, 0 Enthaltungen
 
 ## Wahl EventManager (Hans, Armin):
-- 2 Hans, 9 Armin, 3 Enthaltungen
+- Hans: 2 Ja
+- Armin: 9 Ja
+- 3 Enthaltungen
 
 ## Wahl Serveradmin (Flo):
-- 13 Flo, 1 Enthaltung
+- Flo: 13 Ja, 1 Enthaltung
 
 ## Anträge / Allgemeines
 - Im nächsten Jahr soll der Präsentations-Hintergrund schwarz sein
 - Im Telegram Chat "zorg Community" darf ungeniert auch "random gschmäus" geschrieben werden.
 - Matthias Frei will einen Anmeldebogen für einen Vereinsbeitritt.
-- Antrag 3 wurde gestrichen.
+- Antrag 3 "_Ausschluss des Schuldners «\[z\]tschuder»?_" wurde gestrichen.
 - Frage Cédi bzgl. Bildergallerie und einem damit einhergehenden technischen Problem: Die Bildergallerie kann nur noch von eingeloggten Usern angesehen werden. Auf dem öffentlich zugänglichen Telegram-Chat wird jedoch das Daily-Pic gepostet. Dies soll / kann so bleiben. Siehe https://zorg.ch/bug/769?parent_id=769#114686
 
 # Jahresrückblick 2019
