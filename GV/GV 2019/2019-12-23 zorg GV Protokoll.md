@@ -11,6 +11,10 @@ Restaurant Dreilinden, St. Gallen, 23.12.2019
 - Hans, Oli, Sandro, Domi, Pascal, Matthias Schawalder, David, Nico, Armin, Cédi, Eva, Christian, Bert, Matthias Schranz
 - Absolutes Mehr: 8
 
+## Nicht anwesende Vereinsmitglieder: 5
+- Entschuldigt: Florian, Michael
+- Unentschuldigt: Daniel, Raphael, Patrick
+
 # Traktanden
 ## Genehmigung des Protokolls der letzten GV vom 23.12.2018:
 - 13 Ja, 0 Nein, 0 Enthaltung, 1 Differenz
@@ -45,7 +49,7 @@ Restaurant Dreilinden, St. Gallen, 23.12.2019
 - Im Telegram Chat "zorg Community" darf ungeniert auch "random gschmäus" geschrieben werden.
 - Matthias Frei will einen Anmeldebogen für einen Vereinsbeitritt.
 - Antrag 3 wurde gestrichen.
-- Frage Cédi bzgl. Bildergallerie und einem damit einhergehenden technischen Problem: Die Bildergallerie kann nur noch von eingeloggten Usern angesehen werden. Auf dem öffentlich zugänglichen Telegram-Chat wird jedoch das Daily-Pic gepostet. Dies soll / kann so bleiben.
+- Frage Cédi bzgl. Bildergallerie und einem damit einhergehenden technischen Problem: Die Bildergallerie kann nur noch von eingeloggten Usern angesehen werden. Auf dem öffentlich zugänglichen Telegram-Chat wird jedoch das Daily-Pic gepostet. Dies soll / kann so bleiben. Siehe https://zorg.ch/bug/769?parent_id=769#114686
 
 # Jahresrückblick 2019
 
