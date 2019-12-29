@@ -47,7 +47,7 @@ Restaurant Dreilinden, St. Gallen, 23.12.2019
 - Flo: 13 Ja, 1 Enthaltung
 
 ## Anträge / Allgemeines
-- Im nächsten Jahr soll der Präsentations-Hintergrund schwarz sein
+- Im nächsten Jahr soll der Präsentations-Hintergrund schwarz sein & "zorg" kleingeschrieben werden
 - Im Telegram Chat "zorg Community" darf ungeniert auch "random gschmäus" geschrieben werden.
 - Matthias Frei will einen Anmeldebogen für einen Vereinsbeitritt.
 - Antrag 3 "_Ausschluss des Schuldners «\[z\]tschuder»?_" wurde gestrichen.
