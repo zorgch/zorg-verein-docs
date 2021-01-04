@@ -45,9 +45,9 @@ Virtuell, jit.si meeting, 23.12.2020
 ## Anträge / Allgemeines
 ### Antrag 1
 - Matthias Schawalder will ein Budget von 1000 Fr für den EventManager für einen zorg Event im Jahr 2021.
-- Der EventManager macht einen Vorschlag, welcher vom Vorstand genehmigt werden muss.
-- Grundsätzlich kann sich der EventManager (oder auch ein Mitglied) jederzeit an den Vorstand wenden.
-- Abstimmung: 7 Ja, 2 Nein, 6 Enthaltungen --> KEIN absolutes Mehr.
+- Abstimmung: 7 Ja, 2 Nein, 6 Enthaltungen
+- Grundsätzlich kann sich der EventManager (oder auch ein Mitglied) jederzeit an den Vorstand wenden mit einem Vorschlag.
+
 
 # Interaktiver Jahresrückblick 2020
 
