@@ -35,6 +35,6 @@ Es sind noch Mitgliederzahlungen offen. Nico sendet nochmals Reminder.
 
 Florian Bentele will sich nicht mehr zur Wiederwahl zum Serveradmin stellen. Alle sollen sich Alternativen überlegen.
 
-Mitgliedermutationen: + Stephi, siehe Email. Eintritt am 7. Januar 2022.
+Mitgliedermutationen: + Stephi, siehe Email. Beitritt am 7. Januar 2021.
 
 Oli kümmert sich um Geschenk für 1. Platzierten vom letztjährigen Quiz (Bert) und diesjährigem Quiz.
