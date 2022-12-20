@@ -20,7 +20,7 @@ Oli hat Brief an Maria und Vreni gesendet.
 
 Hälfte hat noch nicht bezahlt. Nico hat Reminder gesendet. Sendet nochmals Reminder.
 
-Nico nimmt Budget und effektive Zahlen auf 1 Slide.
+Nico nimmt Budget 2022 und effektive Zahlen auf 1 Slide. Budget nächstes Jahr wie gewohnt auf separatem Slide.
 
 Oli sendet noch Spesen für Ausgaben Quizgewinner von GV 2021. Knapp 60 Fr.
 
