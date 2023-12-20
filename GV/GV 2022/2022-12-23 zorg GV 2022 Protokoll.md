@@ -36,7 +36,7 @@ Restaurant 1733, St.Gallen, 23.12.2022 - und live Übertragung
 - 16 Ja, 0 Nein, 0 Enthaltungen
 
 ## Entlastung und Wiederwahl Vorstand (Präsident Oli, Aktuar Domi, Kassier Nico)
-- 16 Ja, 0 Nein, 1 Enthaltungen
+- 15 Ja, 0 Nein, 1 Enthaltungen
 
 ## Bericht des Event Managers
 - Abrechnung des zorg Sommerevent 2022 kommt noch.
@@ -70,7 +70,7 @@ Restaurant 1733, St.Gallen, 23.12.2022 - und live Übertragung
 
 
 # Varia
-- Quizgewinner: Sandro
+- Quizgewinner: Sandro und Pascal
 
 # Abnahme des Protokolls
 **Der Vorstand hat dieses Protokoll via Git Pull-Requests und Merge in den master-Branch abgesegnet.**
