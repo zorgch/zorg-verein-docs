@@ -9,6 +9,7 @@ Restaurant The Pinch, St.Gallen, 23.12.2023
 
 ## Anwesende Vereinsmitglieder: 16
 - real: Oli, Nico, Domi, Bert, Armin, Christian, Pascal, Matthias Schawalder, Matthias Frei, Flo, Stephi, Hans, David, Armin, Vreni, Tabea
+- virtuell: niemand
 - Absolutes Mehr: 9
 
 ## Nicht anwesende Vereinsmitglieder: 5
