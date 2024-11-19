@@ -1,18 +1,18 @@
 Protokoll der 11. Generalversammlung des zorg Vereins
 ======
 ---
-Restaurant 1733, St.Gallen, 23.12.2023
+Restaurant The Pinch, St.Gallen, 23.12.2023
 
 # Allgemeines
-- Protokoll: Dominik Angehrn
-- Stimmenzähler: ?
+- Protokoll: Domi
+- Stimmenzähler: Domi
 
 ## Anwesende Vereinsmitglieder: 16
-- real: ?
+- real: Oli, Nico, Domi, Bert, Armin, Christian, Pascal, Matthias Schawalder, Matthias Frei, Flo, Stephi, Hans, David, Armin, Vreni, Tabea
 - Absolutes Mehr: 9
 
 ## Nicht anwesende Vereinsmitglieder: 5
-- ?
+- Raphael Studer, Daniel Zeller, Patrick Häne, Matthias Schranz, Claudio
 
 ## Infos vorab
 - nünt
@@ -35,14 +35,8 @@ Restaurant 1733, St.Gallen, 23.12.2023
 ## Entlastung und Wiederwahl Vorstand (Präsident Oli, Aktuar Domi, Kassier Nico)
 - 16 Ja, 0 Nein, 0 Enthaltungen
 
-## Bericht des Event Managers
-- ?
-
 ## Wahl Event Managers: Wiederwahl Armin:
 - 16 Ja, 0 Nein, 0 Enthaltungen
-
-## Bericht des Serveradministrators
-- ?
 
 ## Wahl Serveradministrators, Wiederwahl Claudio:
 - 3 Ja, 10 Nein, 3 Enthaltungen
@@ -54,7 +48,7 @@ Restaurant 1733, St.Gallen, 23.12.2023
 - keine
 
 # Varia
-- Quizgewinner: ?
+- Quizgewinner: Bert
 - Maria tritt dem Verein bei
 
 # Abnahme des Protokolls
