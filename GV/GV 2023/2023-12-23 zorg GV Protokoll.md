@@ -45,6 +45,8 @@ Restaurant The Pinch, St.Gallen, 23.12.2023
 ## Wahl Serveradministrators, Cédi
 - 16 Ja, 0 Nein, 0 Enthaltungen
 
+- Somit ist Cédi als Serveradmin gewählt, obwohl kein Vereinsmitglied. Falls er auch nichts taugt, stellt sich Flo als Wahl im darauffolgenden Jahr.
+
 ## Anträge / Allgemeines
 - keine
 
