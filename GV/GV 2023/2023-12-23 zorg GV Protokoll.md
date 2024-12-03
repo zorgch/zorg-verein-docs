@@ -8,7 +8,7 @@ Restaurant The Pinch, St.Gallen, 23.12.2023
 - Stimmenzähler: Domi
 
 ## Anwesende Vereinsmitglieder: 16
-- real: Oli, Nico, Domi, Bert, Armin, Christian, Pascal, Matthias Schawalder, Matthias Frei, Flo, Stephi, Hans, David, Armin, Vreni, Tabea
+- real: Oli, Nico, Domi, Bert, Armin, Christian, Pascal, Matthias Schawalder, Matthias Frei, Flo, Stephi, Hans, David, Sandro, Vreni, Tabea
 - virtuell: niemand
 - Absolutes Mehr: 9
 
